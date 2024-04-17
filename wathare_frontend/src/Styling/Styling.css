@@ -1,0 +1,37 @@
+.summary-container {
+    margin-top: 20px;
+  }
+  
+  .summary-heading {
+    text-align: center;
+    font-size: 20px;
+    color: #333;
+  }
+  
+  .summary-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  .summary-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .summary-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .summary-table tr:hover {
+    background-color: #ddd;
+  }
+
+  .weather-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+  
+  
+  
